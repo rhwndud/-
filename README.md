@@ -1,3 +1,8 @@
+{
+"framework": "vite",
+"buildCommand": "npm run build",
+"outputDirectory": "dist"
+}
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   Brain, Search, Info, MessageSquare, AlertCircle, 
